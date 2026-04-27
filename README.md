@@ -33,9 +33,8 @@ NORTH-STAR.md answers those questions. It's the umbrella the projects sit under.
 
 The "where am I heading" document isn't new. If anything in here is good, the credit goes to:
 
-- **[Derek Sivers](https://nownownow.com)** for popularising the "now page" convention. The "Active projects" and "Review cadence" sections borrow from this thinking.
-- **The phase-model concept**, which is common in business strategy, lean methodology, and personal finance planning. Naming the phases helps you see where you are and stops you trying to skip steps.
-- **The personal-strategy literature broadly**: *On Writing Well* by William Zinsser, *The Effective Executive* by Peter Drucker, the manifesto genre. The principles section in particular owes a lot to this tradition.
+- **[Derek Sivers' "now page" convention](https://nownownow.com)** for the idea that a public, current snapshot beats a static "about" page. The "Active projects" and "Review cadence" sections borrow from this directly.
+- **The phase-model concept** (common in business strategy and lean methodology). Naming phases helps you see where you are and stops you trying to skip steps.
 
 What's mine is the integration with CLAUDE.md and CONTEXT.md as a coherent family, the "what I'm not building" section (the most-skipped, most-useful one), and the explicit "how I decide" rules for resolving hard choices.
 
