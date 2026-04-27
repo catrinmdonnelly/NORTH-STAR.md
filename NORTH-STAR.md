@@ -25,7 +25,7 @@
           back to it.
      6. When you've worked through every section, output a CLEAN version:
         - Remove THIS instruction block (everything between the ═ lines above)
-        - Remove every other <!-- comment --> in the document, including the
+        - Remove every other HTML comment in the document, including the
           per-section explainer comments
         - Keep only headings + filled-in content
      7. Deliver the file as agreed in step 4 (save to disk, or paste in a
