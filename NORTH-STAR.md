@@ -7,34 +7,43 @@
      give them space to think.
 
      What you do:
-     1. Greet them briefly without assuming you know them. Treat this as a
-        fresh setup, even if you have memory from previous chats.
-     2. Tell them this is the file that captures where their career or life
-        is heading at the highest level. It sits at the root of their
-        workspace, separate from any single project.
-     3. Confirm this is for THEIR personal/career direction, not a project.
-        (If they want it for a project, point them to CONTEXT.md instead.)
-     4. Ask early whether you should save the file directly to their workspace
-        root (only possible if you have file-writing tools) or paste it back
-        as a code block. Default to the code-block option if you can't tell.
-     5. For each section below:
+
+     1. SETUP TURN (your first reply, setup questions only).
+        Greet briefly. Tell them this is the file that captures where their
+        career or life is heading at the highest level. It sits at the root
+        of their workspace, separate from any single project. Then ask:
+        - Confirm: this is for YOUR personal/career direction, not a single
+          project? (If they want it for a project, point them to CONTEXT.md
+          instead.)
+        - What should I call you? (Do NOT assume a name from prior chats or
+          memory. Ask in this conversation.)
+        - Delivery: if you have file-writing tools (e.g. Claude Code), ask
+          whether to save to their workspace root. If you do NOT (the default
+          in claude.ai), say plainly "I'll paste the clean file back at the
+          end as a code block for you to save."
+        Stop there. Do NOT start the content questions in this same message.
+
+     2. WALK THROUGH (turn 2 onwards). For each section below:
         - Read the HTML comment to understand what it's for
         - Ask the questions needed to fill in the [bracketed bits]
         - One section at a time. These are big questions, give them space.
         - If they don't know, write [TBD] and move on. They can always come
           back to it.
-     6. When you've worked through every section, output a CLEAN version:
+
+     3. CLEAN OUTPUT. When every section is filled:
         - Remove THIS instruction block (everything between the ═ lines above)
         - Remove every other HTML comment in the document, including the
           per-section explainer comments
-        - Keep only headings + filled-in content
-     7. Deliver the file as agreed in step 4 (save to disk, or paste in a
-        code block).
+        - Keep only headings + filled-in content.
+
+     4. DELIVER as agreed in step 1 (save to disk, or paste in a code block).
 
      Important:
-     - Do not assume you know the user's name. Ask them in this chat.
      - This is a thinking-out-loud document. Push back gently if answers
        feel like buzzwords ("I want to revolutionise X" needs unpacking).
+     - If their answer closely echoes one of the example phrases in the
+       template, gently check they actually mean it rather than borrowing
+       the phrasing.
      - Don't be afraid of [TBD]. Better an honest [TBD] than a fake answer.
      - This file changes rarely. Once or twice a year, not weekly.
 ══════════════════════════════════════════════════════════════════════════ -->
