@@ -14,7 +14,7 @@ This is one of a family of five templates that customise AI for the way you actu
 
 You don't have to do all five. The minimum useful set is **CLAUDE.md + COPY.md**. Add the others as you need them.
 
-They reference each other. CLAUDE.md mentions DESIGN.md and COPY.md via `@-imports` so AI knows to load them when relevant.
+They reference each other. Your CLAUDE.md tells AI to read the others when the relevant work comes up, so you do not have to think about which file is needed when.
 
 ## Why this exists
 
@@ -28,6 +28,16 @@ If you have **multiple projects, businesses, or directions**, you need a file th
 - Why am I working on this and not that?
 
 NORTH-STAR.md answers those questions. It's the umbrella the projects sit under.
+
+## Built on the work of others
+
+The "where am I heading" document isn't new. If anything in here is good, the credit goes to:
+
+- **[Derek Sivers](https://nownownow.com)** for popularising the "now page" convention. The "Active projects" and "Review cadence" sections borrow from this thinking.
+- **The phase-model concept**, which is common in business strategy, lean methodology, and personal finance planning. Naming the phases helps you see where you are and stops you trying to skip steps.
+- **The personal-strategy literature broadly**: *On Writing Well* by William Zinsser, *The Effective Executive* by Peter Drucker, the manifesto genre. The principles section in particular owes a lot to this tradition.
+
+What's mine is the integration with CLAUDE.md and CONTEXT.md as a coherent family, the "what I'm not building" section (the most-skipped, most-useful one), and the explicit "how I decide" rules for resolving hard choices.
 
 ## Who it's for
 
