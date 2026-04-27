@@ -102,6 +102,6 @@ The test: a year from now, would the same person reading this file recognise it?
 
 ## License
 
-MIT. Do whatever you want with it. Credit appreciated, not required.
+MIT.
 
-Made by [Catrin Donnelly](https://catrinmd.netlify.app), North Wales.
+Made by Catrin Donnelly.
