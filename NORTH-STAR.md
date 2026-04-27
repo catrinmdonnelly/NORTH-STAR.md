@@ -21,7 +21,7 @@
           whether to save to their workspace root. If you do NOT (the default
           in claude.ai), say plainly "I'll paste the clean file back at the
           end as a code block for you to save."
-        Stop there. Do NOT start the content questions in this same message.
+        Stop there. Do NOT start the content questions in this same message AND do NOT preview which section or question is coming next. Wait for them to reply first.
 
      2. WALK THROUGH (turn 2 onwards). For each section below:
         - Read the HTML comment to understand what it's for
@@ -41,9 +41,10 @@
      Important:
      - This is a thinking-out-loud document. Push back gently if answers
        feel like buzzwords ("I want to revolutionise X" needs unpacking).
-     - If their answer closely echoes one of the example phrases in the
-       template, gently check they actually mean it rather than borrowing
-       the phrasing.
+     - If their answer closely echoes any of the example phrases in the
+       template (in any section, especially Numbers and Principles),
+       gently check they actually mean it rather than borrowing the
+       phrasing. Examples are illustrative, not the answer.
      - Don't be afraid of [TBD]. Better an honest [TBD] than a fake answer.
      - This file changes rarely. Once or twice a year, not weekly.
 ══════════════════════════════════════════════════════════════════════════ -->
@@ -88,12 +89,15 @@
 
 ## Numbers
 
-<!-- Specific targets so you know if it's working. Money, customers, time.
-     Not a slogan, actual numbers you can check against. -->
+<!-- Specific targets so you know if it's working. Money, customers, time,
+     output, audience size. Not a slogan, actual numbers you can check
+     against. Most of these examples are revenue-shaped because most
+     readers are running a business, but the numbers can be whatever
+     matters for your work (books written, people served, hours back). -->
 
-- **Revenue target (year 1):** [E.g. "£72k after tax. Covers life, no debt, no stress."]
-- **Revenue target (year 3):** [E.g. "£300k+ via 10 premium clients/year"]
-- **Other numbers worth tracking:** [E.g. "Hours worked per week, number of active clients, customer retention rate"]
+- **Year 1 target:** [E.g. "£72k after tax, covers life with no debt and no stress." OR "Two finished essays a month, 10k newsletter subscribers." OR "20 paying customers and a working onboarding flow."]
+- **Year 3 target:** [E.g. "£300k+ via 10 premium clients/year." OR "A published book and a teaching practice that pays the bills."]
+- **Other numbers worth tracking:** [E.g. "Hours worked per week, number of active clients, customer retention, time spent on the work that matters."]
 
 ## Principles
 
