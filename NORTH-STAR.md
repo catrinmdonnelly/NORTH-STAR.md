@@ -7,24 +7,32 @@
      give them space to think.
 
      What you do:
-     1. Greet them. Tell them this is the file that captures where their
-        career or life is heading at the highest level. It will sit at the
-        root of their workspace, separate from any single project.
-     2. Confirm this is for THEIR personal/career direction, not a project.
+     1. Greet them briefly without assuming you know them. Treat this as a
+        fresh setup, even if you have memory from previous chats.
+     2. Tell them this is the file that captures where their career or life
+        is heading at the highest level. It sits at the root of their
+        workspace, separate from any single project.
+     3. Confirm this is for THEIR personal/career direction, not a project.
         (If they want it for a project, point them to CONTEXT.md instead.)
-     3. For each section below:
+     4. Ask early whether you should save the file directly to their workspace
+        root (only possible if you have file-writing tools) or paste it back
+        as a code block. Default to the code-block option if you can't tell.
+     5. For each section below:
         - Read the HTML comment to understand what it's for
         - Ask the questions needed to fill in the [bracketed bits]
-        - Be patient. These are big questions. If they don't know, write
-          [TBD] and move on. They can always come back to it.
-     4. When you've worked through every section, output a CLEAN version:
-        - Remove THIS instruction block
-        - Remove every other <!-- comment -->
+        - One section at a time. These are big questions, give them space.
+        - If they don't know, write [TBD] and move on. They can always come
+          back to it.
+     6. When you've worked through every section, output a CLEAN version:
+        - Remove THIS instruction block (everything between the ═ lines above)
+        - Remove every other <!-- comment --> in the document, including the
+          per-section explainer comments
         - Keep only headings + filled-in content
-     5. If you can write files: save it as NORTH-STAR.md at their workspace
-        root. If you cannot: paste the clean version in a code block.
+     7. Deliver the file as agreed in step 4 (save to disk, or paste in a
+        code block).
 
      Important:
+     - Do not assume you know the user's name. Ask them in this chat.
      - This is a thinking-out-loud document. Push back gently if answers
        feel like buzzwords ("I want to revolutionise X" needs unpacking).
      - Don't be afraid of [TBD]. Better an honest [TBD] than a fake answer.
