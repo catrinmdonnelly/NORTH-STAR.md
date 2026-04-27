@@ -52,7 +52,7 @@
 <!-- One paragraph. The big picture in plain language. Not a slogan, a
      description. What does the next 3-5 years look like if it goes well? -->
 
-[2-3 sentences. E.g. "Build a high-selectivity AI consultancy from North Wales, working with traditional non-tech businesses. Reputation-led, word of mouth. Fewer clients, higher value, full control over who I work with."]
+[2-3 sentences. E.g. "Build a small high-selectivity consulting practice working with traditional non-tech businesses. Reputation-led, word of mouth. Fewer clients, higher value, full control over who I work with."]
 
 ## Why
 
@@ -94,7 +94,7 @@
 
 - [Principle. E.g. "I work with people I'd happily have dinner with. Life's too short for clients I dread."]
 - [Principle. E.g. "Reputation over revenue. A bad project for £5k is worse than no project."]
-- [Principle. E.g. "I keep one foot in the place I'm from. North Wales is a feature, not a bug."]
+- [Principle. E.g. "I keep one foot in the place I'm from. Where I'm based is a feature, not a bug."]
 - [Principle]
 - [Principle]
 
